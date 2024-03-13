@@ -1,4 +1,4 @@
-# APRESENTAÇÃO - FUNDAMENTOS DA ESTATÍSTICA 
+# APRESENTAÇÃO - FUNDAMENTOS DA ESTATÍSTICA 💹
 
 ## 📒 Descrição
 Esta apresentação demonstra o impacto da IA para apresentação de temas diversos. Neste caso, trataremos sobre os fundamentos da Estatística.
