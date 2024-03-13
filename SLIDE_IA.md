@@ -1,7 +1,19 @@
+# APRESENTAÇÃO - FUNDAMENTOS DA ESTATÍSTICA 
 
+## 📒 Descrição
+Esta apresentação demonstra o impacto da IA para apresentação de temas diversos. Neste caso, trataremos sobre os fundamentos da Estatística.
 
-## Links Interessantes
+## 🤖 Tecnologias Utilizadas
+- IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização;
+- IA Generativa **[Gamma.app](https://https://gamma.app/)** para criar os slides do tema.
 
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
+## 🧐 Processo de Criação
+Utilizei o "ChatGPT" para revisar minha pesquisa sobre IAs Generativas, estruturar o conteúdo e refinar minhas ideias. Por outro lado, o "Gamma" foi usado para gerar slides com imagens.
 
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+## 🚀 Resultados
+Os slides apresentam um conteúdo envolvente e visualmente rico, demonstrando como as IAs Genativas podem ser uma ferramenta poderosa na educação e na disseminação do conhecimento.
+
+**[LINK PARA A APRESENTAÇÃO AQUI](https://gamma.app/docs/vzrszhcb2wjwkgw?token=&following_id=fuxmj6ekirhcp14&follow_on_start=true)**
+
+## 💭 Reflexão
+Criar esta apresentação foi uma experiência reveladora sobre o potencial criativo das IAs e como elas podem ser aplicadas em diferentes contextos.
